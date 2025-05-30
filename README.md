@@ -11,7 +11,10 @@ docker-compose up -d
 
 Once running, open your browser at [http://localhost:8888](http://localhost:8888)
 
-![image](https://github.com/user-attachments/assets/868722d7-082c-4f6b-81ae-eeda452ecca1)
+![image](https://github.com/user-attachments/assets/bc7a6f04-311b-4ba8-8853-4ad4b849b9be)
+
+![image](https://github.com/user-attachments/assets/83806cf2-e7c9-4133-8ea8-d67e1418cd46)
+
 
 ## 📄 Expected CSV Format
 
