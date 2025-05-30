@@ -3,7 +3,7 @@
 
 A simple app to load time series data, forecast the future using Facebook Prophet, and visualize results with Streamlit.
 
-## 🐳 Run with Docker
+## Run with Docker
 
 ```bash
 docker-compose up -d
@@ -34,13 +34,13 @@ ds,sales,temperature
 
 You will be able to choose which numeric column (e.g., `sales`) to forecast.
 
-## 🔧 Forecast Options
+## Forecast Options
 
 - Select the target column for prediction from your dataset
 - Choose how many days to forecast (from 7 to 90 days)
 - View results as an interactive time series plot
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 time-series-forecasting/
@@ -55,7 +55,7 @@ time-series-forecasting/
 └── README.md          # Project documentation
 ```
 
-## ✅ Features
+## Features
 
 - Upload your own time series CSV file
 - Select a numeric column to forecast
@@ -64,18 +64,21 @@ time-series-forecasting/
 - Interactive plot with Streamlit
 - Fully containerized with Docker
 
-## 🔧 Technologies
+## Technologies
 
 - Python 3.11
 - [Prophet](https://facebook.github.io/prophet/)
 - [Streamlit](https://streamlit.io/)
 - Docker
 
-## 📦 License
+## License
 
 MIT License. Feel free to use and adapt.
 
+
+
 ## Screenshots
+
 
 ![image](https://github.com/user-attachments/assets/31754d41-fd2d-4a7b-9609-0e9de67cb009)
 
