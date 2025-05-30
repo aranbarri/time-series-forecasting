@@ -8,7 +8,7 @@ A simple app to load time series data, forecast the future using Facebook Prophe
 docker-compose up -d
 ```
 
-Once running, open your browser at [http://localhost:8501](http://localhost:8501)
+Once running, open your browser at [http://localhost:8888](http://localhost:8888)
 
 ## 📄 Expected CSV Format
 
