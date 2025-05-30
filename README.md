@@ -5,7 +5,7 @@ A simple app to load time series data, forecast the future using Facebook Prophe
 ## 🐳 Run with Docker
 
 ```bash
-docker-compose up --build
+docker-compose up -d
 ```
 
 Once running, open your browser at [http://localhost:8501](http://localhost:8501)
