@@ -1,5 +1,10 @@
 # 📈 Time Series Forecasting App
 
+
+![image](https://github.com/user-attachments/assets/868722d7-082c-4f6b-81ae-eeda452ecca1)
+
+
+
 A simple app to load time series data, forecast the future using Facebook Prophet, and visualize results with Streamlit.
 
 ## 🐳 Run with Docker
@@ -68,3 +73,12 @@ time-series-forecasting/
 ## 📦 License
 
 MIT License. Feel free to use and adapt.
+
+
+##
+
+![image](https://github.com/user-attachments/assets/c4d7c703-d56c-424e-9272-7609613625b3)
+
+![image](https://github.com/user-attachments/assets/5a31a636-dd8e-4c00-bcf8-8e18f2d28a7b)
+
+
