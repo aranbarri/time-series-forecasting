@@ -11,7 +11,7 @@ docker-compose up -d
 
 Once running, open your browser at [http://localhost:8888](http://localhost:8888)
 
-![image](https://github.com/user-attachments/assets/bc7a6f04-311b-4ba8-8853-4ad4b849b9be)
+![image](https://github.com/user-attachments/assets/de51f08c-9eb3-4321-b55e-8292db004564)
 
 ![image](https://github.com/user-attachments/assets/350e66c7-a4b8-405f-8aa5-c0b97af02e01)
 
