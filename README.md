@@ -75,7 +75,6 @@ time-series-forecasting/
 
 MIT License. Feel free to use and adapt.
 
-
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/31754d41-fd2d-4a7b-9609-0e9de67cb009)
