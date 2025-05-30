@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+*.egg-info/
+dist/
+build/
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Streamlit's local cache
+.streamlit/
+
+# VS Code settings
+.vscode/
+
+# Docker
+*.log
+*.pid
+docker-compose.override.yml
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+*.venv
+.venv/
