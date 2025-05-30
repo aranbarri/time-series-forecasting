@@ -13,7 +13,7 @@ Once running, open your browser at [http://localhost:8888](http://localhost:8888
 
 ![image](https://github.com/user-attachments/assets/868722d7-082c-4f6b-81ae-eeda452ecca1)
 
-![image](https://github.com/user-attachments/assets/c8a0f599-37df-44b6-9373-49f3d6eb964a)
+![image](https://github.com/user-attachments/assets/31754d41-fd2d-4a7b-9609-0e9de67cb009)
 
 
 ## 📄 Expected CSV Format
