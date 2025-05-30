@@ -1,10 +1,6 @@
 # 📈 Time Series Forecasting App
 
 
-![image](https://github.com/user-attachments/assets/868722d7-082c-4f6b-81ae-eeda452ecca1)
-
-
-
 A simple app to load time series data, forecast the future using Facebook Prophet, and visualize results with Streamlit.
 
 ## 🐳 Run with Docker
@@ -14,6 +10,10 @@ docker-compose up -d
 ```
 
 Once running, open your browser at [http://localhost:8888](http://localhost:8888)
+
+![image](https://github.com/user-attachments/assets/868722d7-082c-4f6b-81ae-eeda452ecca1)
+
+
 
 ## 📄 Expected CSV Format
 
